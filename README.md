@@ -21,7 +21,7 @@ Then
 To start the app in development mode, use:
 # Run The app
 
-# # # npm start or yarn start
+### npm start or yarn start
 
 Runs your app in development mode.
 
