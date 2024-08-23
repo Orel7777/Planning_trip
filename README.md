@@ -1,4 +1,4 @@
-🌟 React Native Planning a Trip 🌟
+ # React Native Planning a Trip 
 Welcome to the React Native Planning a Trip project! 🎉 This app helps you plan trips and manage expenses seamlessly.
 
 🛠️ What This Includes:
