@@ -13,16 +13,12 @@ Cross-Platform Compatibility: Works on both iOS and Android 🌍
 Install Dev Dependencies
 First, install the necessary dependencies:
 
-bash
-Copy code
 npm install
 # or
 yarn install
 Run the App
 To start the app in development mode, use:
 
-bash
-Copy code
 npm start
 # or
 yarn start
@@ -31,16 +27,13 @@ This command runs your app in development mode. Open it in the Expo Go app on yo
 Run on iOS
 If you’re on a Mac and have Xcode installed, you can open the app in the iOS Simulator with:
 
-bash
-Copy code
+
+
 npm run ios
 # or
-yarn run ios
 Run on Android
 To open the app on a connected Android device or emulator, use:
 
-bash
-Copy code
 npm run android
 # or
 yarn run android
