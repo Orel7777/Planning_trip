@@ -9,35 +9,29 @@ Redux: State management 🔄
 Navigation: Smooth screen navigation 🧭
 TailwindCSS (Nativewind): Stylish and responsive design 🎨
 Cross-Platform Compatibility: Works on both iOS and Android 🌍
-🚀 Get Started
-Install Dev Dependencies
+
+## Get Started
+Install Dev Dependencies:
 First, install the necessary dependencies:
 
-npm install
-# or
-yarn install
-Run the App
+### npm install or yarn install
+
+Then
+
 To start the app in development mode, use:
+# Run The app
 
-npm start
-# or
-yarn start
-This command runs your app in development mode. Open it in the Expo Go app on your phone to view it. The app will reload if you save edits to your files, and you’ll see build errors and logs in the terminal. 📱
+# # # npm start or yarn start
 
-Run on iOS
-If you’re on a Mac and have Xcode installed, you can open the app in the iOS Simulator with:
+Runs your app in development mode.
 
+Open it in the Expo app on your phone to view it. It will reload if you save edits to your files, and you will see build errors and logs in the terminal. 📱
 
+# npm run ios or yarn run ios
+Like npm start / yarn start, but also attempts to open your app in the iOS Simulator if you're on a Mac and have it installed.
 
-npm run ios
-# or
-Run on Android
-To open the app on a connected Android device or emulator, use:
-
-npm run android
-# or
-yarn run android
-Note: This requires installation of Android build tools. Check out the React Native documentation for detailed setup instructions. 📖
+# npm run android or yarn run android
+Like npm start / yarn start, but also attempts to open your app on a connected Android device or emulator. Requires an installation of Android build tools (see React Native docs for detailed setup).
 
 ❤️ Support Us
 If you like this project, please give it a ⭐ and share it with friends!
